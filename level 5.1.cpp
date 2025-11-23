@@ -1,0 +1,14 @@
+#include <iostream>
+using namespace std;
+
+void salamVer(string ad) {
+    cout << "Salam, " << ad << "!" << endl;
+}
+
+int main() {
+    string ad;
+    cout << "Adinizi daxil edin: ";
+    cin >> ad;
+
+    salamVer(ad);
+}
