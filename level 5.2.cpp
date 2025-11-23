@@ -21,4 +21,3 @@ int main() {
   cout<<"ferq:"<<ferq(a,b)<<endl;
   cout<<"hasil:"<<hasil(a,b)<<endl;
   cout<<"bolme"<<bolme(a,b)<<endl;
-}
