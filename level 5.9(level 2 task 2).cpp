@@ -2,9 +2,9 @@
 using namespace std;
 
 void yoxla(int a) {
-    if (a > 0)
+    if (a>0)
         cout<<"eded musbetdir."<<endl;
-    else if (a < 0)
+    else if (a<0)
         cout<<"eded menfidir."<<endl;
     else
         cout<<"eded sifirdir."<<endl;
@@ -18,5 +18,6 @@ int main(){
     yoxla(eded);
     return 0;
 }
+
 
 
