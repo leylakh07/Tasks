@@ -13,5 +13,5 @@ int main(){
   
   cout<<"kvadrat:"<<kvadrat(eded)<<endl;
   cout<<"kub:"<<kub(eded)<<endl;
-  
+
 }
